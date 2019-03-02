@@ -25,5 +25,5 @@ I want to be able to delete my todo when complete
 * >>>>>`:001 > require "./lib/todolist.rb"`
 * >>>>>`:002 > require "./lib/todo.rb"`
 
-#Demo 
+# Demo 
 ![irb demo](images/irbdemo.png)
