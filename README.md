@@ -1,6 +1,6 @@
-#Todo List 
+# Todo List 
 
-#Users Stories
+# Users Stories
 ```
 As a user 
 So that I can keep track of my life 
@@ -14,7 +14,7 @@ As a user
 So I can feel accomplished 
 I want to be able to delete my todo when complete
 ```
-#Quick Start
+# Quick Start
 * `git clone https://github.com/CazaBelle/todolist-ruby.git`
 * `cd todolist-ruby`
 * `bundle install`
