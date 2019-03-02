@@ -1,5 +1,5 @@
 # Todo List
-------------
+
 
 # Users Stories
 ```
@@ -15,6 +15,7 @@ As a user
 So I can feel accomplished 
 I want to be able to delete my todo when complete
 ```
+
 # Quick Start
 * `git clone https://github.com/CazaBelle/todolist-ruby.git`
 * `cd todolist-ruby`
