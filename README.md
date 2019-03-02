@@ -1,4 +1,5 @@
-# Todo List 
+Todo List
+------------
 
 # Users Stories
 ```
