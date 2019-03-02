@@ -1,3 +1,5 @@
+require 'pry'_
+
 class TodoList 
 attr_reader :todos
 
